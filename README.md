@@ -6,12 +6,12 @@
 
 ## Overview
 
-基于Java基础类库编写的Flappy Bird桌面平台版。
+Using Java to make a Flappy Bird game
 
-具备原版所有功能，相较原版加入了移动型水管、优化了难度梯度。
+Add moving pipes to increase the difficulty of the game
 
 [RL FlappyBird](https://github.com/kingyuluk/RL-FlappyBird)
-基于本项目集成了Amazon的Deep Java Library (DJL)，可以使用强化学习(DQN)训练Flappy Bird
+This project was based on Amazon's Deep Java Library (DJL), can use DQN to train Flappy Bird
 
 ## How to play
 
